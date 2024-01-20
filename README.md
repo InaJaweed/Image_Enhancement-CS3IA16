@@ -40,8 +40,16 @@ To run the MATLAB code:
 2. Load the project files.
 3. Run the main script for noise removal.
 
+## Group Members
+
+[@Samuel Jones](https://github.com/Joness07)
+
+[@Ben Bridgeman](https://github.com/benbridgeman03)
+
 ## Additional Notes
 
 - Refer to the assignment description for specific requirements and expectations.
 - Explore MATLAB documentation for relevant functions and techniques.
 - Ensure all code and documentation are well-organized and adhere to best practices.
+
+Feel free to reach out if you have any questions or feedback.
